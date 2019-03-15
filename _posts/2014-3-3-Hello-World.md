@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Blog Post 1
 published: true
 ---
 Hello! 
