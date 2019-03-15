@@ -5,4 +5,4 @@ published: true
 ---
 Hello! 
 
-This is the first blog post for Brown University's CS1951a Data Science Final Project. 
+This is the first blog post for Brown University's CS1951a Data Science Final Project.
