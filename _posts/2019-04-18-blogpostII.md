@@ -1,6 +1,16 @@
 ---
 published: false
 ---
+## Introduction ##
+
+
+Hello! 
+
+This is the second blog post for Brown University's CS1951a Data Science Final Project.
+
+The students in our project group are:
+Jack Kates, Julia Windham, Leo Ryu, Nam Do, and Sandra Ha. 
+
 ## ML Analysis ##
 In order to analyze the data, we used a basic sentiment analyzer as a metric of both negativity and polarity and retweets as a metric of popularity and attention.
 ![ds1cropped.png]({{site.baseurl}}/_posts/ds1cropped.png)
