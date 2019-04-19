@@ -18,8 +18,7 @@ Jack Kates, Julia Windham, Leo Ryu, Nam Do, and Sandra Ha.
 In order to analyze the data, we used a basic sentiment analyzer as a metric of both negativity and polarity and retweets as a metric of popularity and attention.
 ![ds1.png]({{site.baseurl}}/media/ds1.png)
 
-We began by analyzing the distribution of positivity across all the tweets collected. We wanted to understand how the pre-trained sentiment analyzer scored our data, and whether it was evenly distributed across the scoring scale of zero to one. As demonstrated in the bar chart, the tweets skew towards being more positive. This is important to note because in the scatter plot below, the same skew is present but is more difficult to isolate. 
-
+We began by analyzing the distribution of positivity across all the tweets collected. We wanted to understand how the pre-trained sentiment analyzer scored our data, and whether it was evenly distributed across the scoring scale of zero to one. As demonstrated in the bar chart, the tweets skew towards being more positive. This is important to note because in the scatter plot below, the same skew is present but is more difficult to isolate.
 ![ds2.png]({{site.baseurl}}/media/ds2.png)
 
 The tweets' retweet counts, as seems natural, are greatly distributed but skew towards smaller values. From this visualization, the skewing along each axis is apparent, but it is difficult to tell if there are any trends besides this. 
